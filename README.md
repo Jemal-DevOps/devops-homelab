@@ -19,7 +19,7 @@ image, and deploys — zero manual steps. Full pipeline in 34 seconds.
 - Branch mismatch master vs main — common real-world gotcha
 
 **Demo:** [Watch 5-minute Loom](PASTE_LOOM_LINK_HERE)  
-**Code:** https://github.com/Jemal-DevOps/myapp
+**Code:** https://github.com/Jemal-DevOps/my-app
 
 ---
 
@@ -53,7 +53,7 @@ documents the full incident lifecycle.
 - Port-forwards not surviving reboots — documented recovery procedure
 
 **Demo:** [Watch 5-minute Loom](PASTE_LOOM_LINK_HERE)  
-**Code:** https://github.com/Jemal-DevOps/myapp
+**Code:** https://github.com/Jemal-DevOps/my-app
 
 ---
 
